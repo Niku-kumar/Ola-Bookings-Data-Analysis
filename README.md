@@ -38,20 +38,6 @@ The dashboard contains five pages:
 * **Combined Customer and Driver Cancellation Rate:** 28.08%
 * **Driver Cancellation Rate:** 17.89%
 
-### Cancellation Rate Calculation
-
-Combined customer and driver cancellation rate:
-
-$$
-\frac{10,499+18,434}{103,024}\times100=28.08\%
-$$
-
-Driver cancellation rate:
-
-$$
-\frac{18,434}{103,024}\times100=17.89\%
-$$
-
 ## 🗄️ SQL Analysis
 
 The project includes the following SQL analyses:
